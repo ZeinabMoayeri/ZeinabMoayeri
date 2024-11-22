@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+for freelance work? do reach, [email](mailto:z.moayeri.k@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -40,7 +40,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZeinabMoayeri&show_icons=true&theme=gotham" alt="ZeinabMoayeri" />
 
 
 
