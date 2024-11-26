@@ -17,21 +17,13 @@ Contact Angle Prediction with CNN
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=HuggingFace&logoColor=white" />
+  <img alt="keras" src="https://img.shields.io/badge/Keras-FF0000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-
-  
-	https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white
-	https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
-	https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
-	https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white
-	https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black
-	https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
-	https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
-	https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white
-	https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-	https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white
- 
+  <img alt="githubcopilot" src="https://img.shields.io/badge/github%20copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img alt="googlegemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 <!--END_SECTION:waka-->
 
