@@ -3,7 +3,7 @@
 <!--
 **ZeinabMoayeri/ZeinabMoayeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-for freelance work? do reach, [email](mailto:z.moayeri.k@gmail.com) :)
+🚧 for freelance work? do reach, [email](mailto:z.moayeri.k@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -61,14 +61,6 @@ Contact Angle Prediction with CNN
 
   
   <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 &nbsp;**my github stats**
