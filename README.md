@@ -7,9 +7,8 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
 ```txt
-Contact Angle Prediction with CNN
+for NOW working on --> Contact Angle Prediction with CNN
 ```
 <h3>Things I work with</h3>
 <p>
