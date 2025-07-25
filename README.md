@@ -10,6 +10,8 @@
 ```txt
 for NOW working on --> Contact Angle Prediction with CNN
 ```
+
+<!--
 <h3>Things I work with</h3>
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -52,6 +54,7 @@ for NOW working on --> Contact Angle Prediction with CNN
 
 <!--END_SECTION:waka-->
 
+<!--
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
