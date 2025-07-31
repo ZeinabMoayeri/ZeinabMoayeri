@@ -32,12 +32,7 @@ for NOW working on --> Contact Angle Prediction with CNN
   <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=HuggingFace&logoColor=black" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
   <img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="githubcopilot" src="https://img.shields.io/badge/github%20copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-  <img alt="googlegemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white" />
-  <img alt="medium" src="https://img.shields.io/badge/Medium-12100E2?style=flat-square&logo=medium&logoColor=white" />
-  <img alt="wix" src="https://img.shields.io/badge/Wix-000?style=flat-square&logo=wix&logoColor=white" />
   <img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 
  **IDEs:**
