@@ -8,7 +8,7 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```txt
-for NOW working on --> Contact Angle Prediction with CNN
+for NOW working on --> International Airlines - Traffic by city pairs
 ```
 
 <h3>Things I work with</h3>
