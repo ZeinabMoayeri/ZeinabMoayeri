@@ -8,7 +8,7 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```txt
-for NOW working on --> International Airlines - Traffic by city pairs
+for NOW working on --> Data Flow for GPTK
 ```
 
 <h3>Things I work with</h3>
